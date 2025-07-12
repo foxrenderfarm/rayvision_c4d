@@ -12,8 +12,8 @@ from rayvision_sync.upload import RayvisionUpload
 render_para = {
     "domain": "task.renderbus.com",
     "platform": "6",
-    "access_id": "xxxx",
-    "access_key": "xxxx",
+    "access_id": "xxxxx",
+    "access_key": "xxxxxx",
 }
 
 api = RayvisionAPI(access_id=render_para['access_id'],
